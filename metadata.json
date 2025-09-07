@@ -1,0 +1,7 @@
+{
+  "name": "SafeGuard AI",
+  "description": "A personal safety application that provides an SOS button, automatic loud sound detection, and voice-activated help commands to alert emergency contacts. Built with user privacy and accessibility in mind.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
